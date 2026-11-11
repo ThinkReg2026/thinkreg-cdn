@@ -1,0 +1,15 @@
+Thumbs.db
+desktop.ini
+.project
+.settings/
+
+# Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.classpath
+.factorypath
+
+.vscode/
